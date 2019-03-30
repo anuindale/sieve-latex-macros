@@ -4,9 +4,11 @@ This simple python script can search through your .tex and keep only macros that
 
 REQUIREMENTS:
 
-*Python installed
+* Python installed
 
-*all latex macros are on single lines, staring with \def, \newcommand or \renewcommand
+* All latex macros are on single lines, staring with \def, \newcommand or \renewcommand
+    
+    
     
 USAGE: 
 
